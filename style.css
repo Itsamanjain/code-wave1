@@ -50,7 +50,7 @@ body {
 .hero1 {
   position: relative;
   left: 750px;
-  bottom: 340px;
+  bottom: 275px;
   padding: 0px 12px 14px 25px;
   margin: 0px 10px 13px 19px;
 }
@@ -68,6 +68,13 @@ section {
   font-size: 25px;
   padding: 0px 65px 9px;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.fish{
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  position: relative;
+  left: 16%;
+  padding-bottom: 30%;
 }
 
 footer {
