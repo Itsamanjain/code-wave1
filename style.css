@@ -48,10 +48,11 @@ body {
 }
 
 .hero1 {
-  padding: 51px 206px 130px 91px;
-  margin: -270px 70px 155px 100px;
-  zoom: 150%;
-  text-align: right;
+  position: relative;
+  left: 750px;
+  bottom: 340px;
+  padding: 0px 12px 14px 25px;
+  margin: 0px 10px 13px 19px;
 }
 h1 {
   display: flex;
