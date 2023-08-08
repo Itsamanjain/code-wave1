@@ -48,28 +48,11 @@ body {
 }
 
 .hero1 {
-  padding: 10% 20% 15% 10%;
-  margin: -30% -35% 10% 5%;
-  text-align: center;
-  zoom: 140%;
+  padding: 51px 206px 130px 91px;
+  margin: -270px 70px 155px 100px;
+  zoom: 150%;
+  text-align: right;
 }
-
-/* Media Query for Tablets */
-@media (max-width: 768px) {
-  .hero1 {
-    padding: 15% 15% 20% 15%;
-    margin: -10% 5% 5% 5%;
-  }
-}
-
-/* Media Query for Mobile Devices */
-@media (max-width: 480px) {
-  .hero1 {
-    padding: 20% 10% 25% 10%;
-    margin: -5% 5% 2% 5%;
-  }
-}
-
 h1 {
   display: flex;
   font-size: 70px;
@@ -79,18 +62,12 @@ h1 {
 }
 section {
   background-color: aliceblue;
-  padding: 40px 80px 13px -6px;
-  
-  margin: 15px -147px 35px 13px;
-
 }
 .abcd {
   font-size: 25px;
-   padding: 0px 65px 9px;
-   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
-   
+  padding: 0px 65px 9px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }
-
 
 footer {
   background-color: #6674cc;
