@@ -49,8 +49,9 @@ body {
 
 .hero1 {
   padding: 10% 20% 15% 10%;
-  margin: -20% 5% 10% 5%;
+  margin: -30% -35% 10% 5%;
   text-align: center;
+  zoom: 140%;
 }
 
 /* Media Query for Tablets */
@@ -78,6 +79,9 @@ h1 {
 }
 section {
   background-color: aliceblue;
+  padding: 40px 80px 13px -6px;
+  
+  margin: 15px -147px 35px 13px;
 
 }
 .abcd {
